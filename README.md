@@ -8,3 +8,7 @@ Vanilla JavaScript project
 Original tutorial from CodingDesign on Youtube: 
 
 https://www.youtube.com/watch?v=MK9RvvXkLiY&ab_channel=CodingDesign
+
+Icons:
+
+https://icons8.com/icon/set/animals/color-glass
